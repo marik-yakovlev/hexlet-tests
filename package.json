@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-tests",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "capitalize.tests.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marik-yakovlev/hexlet-tests.git"
+  },
+  "author": "marik-yakovlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marik-yakovlev/hexlet-tests/issues"
+  },
+  "homepage": "https://github.com/marik-yakovlev/hexlet-tests#readme"
+}
